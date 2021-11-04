@@ -8,6 +8,7 @@
 
 :warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](common-qa.md) for more details
 
+Added a new line
 :busts_in_silhouette: &nbsp;[Join](https://www.facebook.com/groups/538897960007080) our [DevOps community](https://www.facebook.com/groups/538897960007080) where we have discussions and share resources on DevOps
 
 :pencil: &nbsp;You can add more questions and exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
